@@ -10,8 +10,152 @@ object_list:
     title: A plan of the city and environs of Philadelphia
     creator: William Faden, Nicholas Scull, and George Heap 
     year: 1777
-    dimensions: 62 × 45 cm
+    dimensions: 62 x 45 cm
     location: Leventhal Map & Education Center at the Boston Public Library
     link: https://collections.leventhalmap.org/search/commonwealth:cj82m2470
     figure:
       - id: figure--commonwealth:cj82m2470
+  - id: commonwealth:x633f8530
+    title: A Plan of Boston, from Actual Survey
+    creator: Osgood Carleton
+    year: 1796
+    dimensions: 37 x 22 cm
+    location: Mapping Boston Collection
+    link: https://collections.leventhalmap.org/search/commonwealth:x633f8530
+    figure:
+      - id: figure--commonwealth:x633f8530
+  - id: commonwealth:9s161871m
+    title: The Theatre of War in North America (excerpt)
+    creator: Robert Sayer and John Bennett
+    year: 1776
+    dimensions: 74 x 56 cm
+    location: Richard H. Brown Collection, George Washington Presidential Library at Mount Vernon
+    link: https://collections.leventhalmap.org/search/commonwealth:9s161871m
+    figure:
+      - id: figure--commonwealth:9s161871m
+  - id: commonwealth:6t053p82p
+    title: A Correct Map of Connecticut from Actual Survey
+    creator: Amos Doolittle
+    year: 1797
+    dimensions: 33 x 41 cm
+    location: Leventhal Map & Education Center at the Boston Public Library
+    link: https://collections.leventhalmap.org/search/commonwealth:6t053p82p
+    figure:
+      - id: figure--commonwealth:6t053p82p
+  - id: commonwealth:3f4631459
+    title: Plan of the Town of Salem
+    creator: Jonathan P. Saunders, Annin & Smith
+    year: 1820
+    dimensions: 53 x 78 cm
+    location: Leventhal Map & Education Center at the Boston Public Library
+    link: https://collections.leventhalmap.org/search/commonwealth:3f4631459
+    figure:
+      - id: figure--commonwealth:3f4631459
+  - id: commonwealth:3f462z14q
+    title: A New and Accurate Chart of the Bay of Chesapeak
+    creator: John Norman and Anthony Smith
+    year: 1794
+    dimensions: 93 x 81 cm
+    location: Leventhal Map & Education Center at the Boston Public Library
+    link: https://collections.leventhalmap.org/search/commonwealth:3f462z14q
+    figure:
+      - id: figure--commonwealth:3f462z14q
+  - id: commonwealth:47429c802
+    title: The United States Declaration of Independence
+    creator: William J. Stone, for the U.S. State Department, Washington, D.C.
+    year: 1823
+    dimensions: 84 x 66 cm
+    location: Boston Public Library
+    link: https://ark.digitalcommonwealth.org/ark:/50959/47429c802
+    figure:
+      - id: figure--commonwealth:47429c802
+  - id: commonwealth:47429c77r
+    title: The United States Declaration of Independence
+    creator: Gill, Powars, and Willis
+    year: 1776
+    dimensions: 50 x 39 cm
+    location: Boston Public Library
+    link: https://ark.digitalcommonwealth.org/ark:/50959/47429c77r
+    figure:
+      - id: figure--commonwealth:47429c77r
+  - id: commonwealth:7940f097m
+    title: The United States Declaration of Independence, in The New-England Chronicle VIII (no. 413)
+    creator: Edward Powars and Nathaniel Willis
+    year: 1776
+    dimensions: 1 newspaper article ; 38 cm (fol.)
+    location: Boston Public Library
+    link: https://ark.digitalcommonwealth.org/ark:/50959/7940f097m
+    figure:
+      - id: figure--commonwealth:7940f097m
+  - id: commonwealth:47429c86q
+    title: The United States Declaration of Independence, in *The Pennsylvania Evening Post* II (no. 228)
+    creator: Benjamin Towne
+    year: 1776
+    dimensions: p. 335-336 ; 26 cm (4to)
+    location: Boston Public Library
+    link: https://ark.digitalcommonwealth.org/ark:/50959/47429c86q
+    figure:
+      - id: figure--commonwealth:47429c86q
+  - id: commonwealth:47429c83w
+    title: The United States Declaration of Independence
+    creator: Thomas and Samuel Green
+    year: 1776
+    dimensions: 37 x 23 cm
+    location: Boston Public Library
+    link: https://ark.digitalcommonwealth.org/ark:/50959/47429c83w
+    figure:
+      - id: figure--commonwealth:47429c83w
+  - id: commonwealth:47429c74x
+    title: The United States Declaration of Independence, Official Massachusetts printing
+    creator: Ezekiel Russell
+    year: 1776
+    dimensions: 50 x 40 cm
+    location: Boston Public Library
+    link: https://ark.digitalcommonwealth.org/ark:/50959/47429c74x
+    figure:
+      - id: figure--commonwealth:47429c74x
+  - id: commonwealth:47429c713
+    title: The United States Declaration of Independence
+    creator: Mary Katherine Goddard
+    year: 1777
+    dimensions: 51 x 31 cm
+    location: Boston Public Library
+    link: https://ark.digitalcommonwealth.org/ark:/50959/47429c713
+    figure:
+      - id: figure--commonwealth:47429c713
+  - id: commonwealth:6d574z98c
+    title: Facsimile of the United States Declaration of Independence with clipped signatures
+    creator: Mellen Chamberlain (compiler)
+    year: Between 1837 and 1870
+    dimensions: 79 x 66 cm
+    location: Boston Public Library
+    link: https://ark.digitalcommonwealth.org/ark:/50959/6d574z98c
+    figure:
+      - id: figure--commonwealth:6d574z98c
+  - id: archive:walkersappeal
+    title: Walker's Appeal ... to the Colored Citizens of the World
+    creator: David Walker
+    year: 1829
+    dimensions: 20 cm
+    location: Boston Public Library
+    link: https://archive.org/details/walkersappealinf1829walk
+    figure:
+      - id: figure--archive:walkersappeal
+  - id: commonwealth:hx11z549x
+    title: A Map of the British Colonies in North America
+    creator: John Mitchell and others
+    year: 1775, manuscript additions 1782
+    dimensions: 
+    location: British Library
+    link: https://collections.leventhalmap.org/search/commonwealth:hx11z549x
+    figure:
+      - id: figure--commonwealth:hx11z549x
+  - id: commonwealth:1257b877n
+    title: A Map of the British Empire in America With the French and Spanish Settlements Adjacent Thereto
+    creator: Henry Popple
+    year: 1733
+    dimensions: 
+    location: Leventhal Map & Education Center at the Boston Public Library
+    link: https://collections.leventhalmap.org/search/commonwealth:1257b877n
+    figure:
+      - id: figure--commonwealth:1257b877n

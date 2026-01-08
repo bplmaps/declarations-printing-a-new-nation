@@ -1,0 +1,116 @@
+# ------------------------------------------------------------------------------
+
+# ==============================================================================
+# Publication.yml
+# ------------------------------------------------------------------------------
+#
+# This file houses the bibliographic info and general metadata for your digital
+# publication.
+
+# ------------------------------------------------------------------------------
+# The publication's base URL, i.e. 'https://www.my-publication.org'
+url: 'https://www.leventhalmap.org/digital-exhibitions/declarations-printing-a-new-nation/'
+
+# ------------------------------------------------------------------------------
+# Title & Description
+title: > 
+  Declarations: Printing a New Nation
+short_title:
+
+description:
+  one_line:
+  full: 
+
+# ------------------------------------------------------------------------------
+# Publication Details
+# ------------------------------------------------------------------------------
+
+pub_date: 2026-04-10 # YYYY-MM-DD
+language: en
+pub_type: book # book | journal-periodical | other
+
+identifier:
+  isbn:
+
+publisher:
+  - name: Boston Public Library and Leventhal Map & Education Center
+    location: Boston
+    url: https://www.leventhalmap.org
+    logo: MapCenter_allwhite.png
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+contributor_as_it_appears: Jay Moschella and Garrett Dash Nelson
+
+contributor:
+  - id: gnelson
+    type: primary
+    first_name: Garrett Dash
+    last_name: Nelson
+    title: President & Head Curator
+    affiliation: Leventhal Map & Education Center
+  - id: jmoschell
+    type: primary
+    first_name: Jay
+    last_name: Moschella
+    title: Manager of Rare Books & Manuscripts  
+    affiliation: Boston Public Library
+
+
+# ------------------------------------------------------------------------------
+# Copright & License
+# ------------------------------------------------------------------------------
+
+copyright: © 2026 Boston Public Library and Leventhal Map & Education Center
+
+license:
+  name: Creative Commons Attribution 4.0 International License
+  abbreviation: CC BY
+  url: https://creativecommons.org/licenses/by/4.0/
+  scope: full # full | text-only | some-exceptions
+
+# ------------------------------------------------------------------------------
+# Formats, Resources & Links
+# ------------------------------------------------------------------------------
+
+resource_link:
+  - type: footer-link
+    name: Leventhal Center Home
+    link_relation: about
+    url: https://www.leventhalmap.org
+  - type: footer-link
+    name: American Revolutionary Geographies Online
+    link_relation: about
+    url: https://www.argomaps.org
+  - type: footer-link
+    name: Boston Public Library
+    link_relation: about
+    url: https://www.bpl.org
+# ------------------------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------------------------
+
+subject:
+  - type: bisac
+    name: HISTORY / United States / Revolutionary Period (1775-1800)
+    identifer: HIS036030
+  - type: keywords
+    name: historical geography, American Revolution, maps
+
+# ------------------------------------------------------------------------------
+# Revision History
+# ------------------------------------------------------------------------------
+
+revision_history:
+  - date: 2026-04-10
+    summary: First publication
+
+repository_url: https://github.com/bplmaps/declarations-printing-a-new-nation/
+
+# ------------------------------------------------------------------------------
+# Promo Image
+# ------------------------------------------------------------------------------
+
+promo_image: static-cover.jpg

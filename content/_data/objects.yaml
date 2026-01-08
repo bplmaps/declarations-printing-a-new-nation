@@ -1,0 +1,17 @@
+object_display_order:
+  - creator
+  - year
+  - dimensions
+  - location
+
+object_list:
+
+  - id: commonwealth:cj82m2470
+    title: A plan of the city and environs of Philadelphia
+    creator: William Faden, Nicholas Scull, and George Heap 
+    year: 1777
+    dimensions: 62 × 45 cm
+    location: Leventhal Map & Education Center at the Boston Public Library
+    link: https://collections.leventhalmap.org/search/commonwealth:cj82m2470
+    figure:
+      - id: figure--commonwealth:cj82m2470

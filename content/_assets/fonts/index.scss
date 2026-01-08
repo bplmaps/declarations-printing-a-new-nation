@@ -1,0 +1,11 @@
+// =============================================================================
+// Fonts.scss
+// -----------------------------------------------------------------------------
+// Custom font declarations (if any) can be imported here
+$assets-dir: "/_assets/" !default;
+
+@function font($file) {
+  @return url($assets-dir + 'fonts/' + $file);
+}
+
+@import url("https://use.typekit.net/gbq1sth.css");

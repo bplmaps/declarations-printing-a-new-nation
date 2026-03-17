@@ -15,4 +15,8 @@ This map was created by King George III’s royal geographer William Faden in 17
 
 Once the Declaration was distributed beyond Pennsylvania, political attention shifted to each of the states. As they received the news, political leaders had to decide how to begin the chaotic process of replacing British administration with interim revolutionary governments.
 
-<div>Colonial cities were compact compared to the giant, sprawling metropolises of today. Fewer than one in ten British colonists lived in settlements of more than 2,500 people. How would colonists living outside of these cities have heard political news at this time?</div>
+<div class="guidepost">
+
+Colonial cities were compact compared to the giant, sprawling metropolises of today. Fewer than one in ten British colonists lived in settlements of more than 2,500 people. How would colonists living outside of these cities have heard political news at this time?
+
+</div>

@@ -1,7 +1,7 @@
 ---
 title: A Plan of Boston, from Actual Survey
 layout: entry
-order: 400
+order: 202
 menu: true
 toc: true
 presentation: side-by-side

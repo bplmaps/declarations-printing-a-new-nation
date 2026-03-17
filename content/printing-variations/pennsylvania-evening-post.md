@@ -1,5 +1,5 @@
 ---
-title: The United States Declaration of Independence, in *The Pennsylvania Evening Post* 2, no. 228 (July 6, 1776)
+title: The Pennsylvania Evening Post Printing
 layout: entry
 order: 501
 menu: true

@@ -1,5 +1,5 @@
 ---
-title: The United States Declaration of Independence
+title: The Thomas and Samuel Green New Haven Broadside
 layout: entry
 order: 502
 menu: true

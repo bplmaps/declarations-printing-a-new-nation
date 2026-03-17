@@ -17,8 +17,12 @@ The geographic information in maps like this one helped administrators in
 
 By the summer of 1776 the empire was in crisis, with thirteen North American colonies engaged in outright rebellion. When John Adams and the other delegates gathered in Philadelphia, they still saw themselves as citizens of their own individual colonies as well as the larger British Empire. But when they signed the Declaration of Independence, they took the first steps towards creating a new political territory.
 
-<div>This map was created for British colonial rulers in 1733. What did they want from this place and how does the map show that?
+<div class="guidepost">
+
+This map was created for British colonial rulers in 1733. What did they want from this place and how does the map show that?
 
 Four decades later, John Adams and his contemporaries looked at the same map. What did *they* want from this place and how did their desires shape what they saw on the map?
 
-**How does what a viewer wants change what they see?**</div>
+**How does what a viewer wants change what they see?**
+
+</div>

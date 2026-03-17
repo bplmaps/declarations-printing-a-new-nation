@@ -1,5 +1,5 @@
 ---
-title: The United States Declaration of Independence
+title: The Goddard Broadside
 layout: entry
 order: 602
 menu: true

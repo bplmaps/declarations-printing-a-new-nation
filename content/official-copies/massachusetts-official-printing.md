@@ -1,5 +1,5 @@
 ---
-title: The United States Declaration of Independence, Official Massachusetts printing
+title: The Official Massachusetts Printing
 layout: entry
 order: 601
 menu: true

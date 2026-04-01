@@ -38,9 +38,9 @@ figure_list:
   - id: figure--commonwealth:47429c713
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:47429c713/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/47429c713/canvas/47429c72c
-  - id: figure--archive:walkersappeal
-    manifestId: https://iiif.archive.org/iiif/walkersappealinf1829walk/manifest.json
-    canvasId: 
+  - id: figure--commonwealth:wh24gq038
+    manifestId: https://www.digitalcommonwealth.org/search/commonwealth:wh24gq038/manifest
+    canvasId: https://ark.digitalcommonwealth.org/ark:/50959/wh24gq038/canvas/mk621d57g
   - id: figure--commonwealth:hx11z549x
     manifestId: https://www.digitalcommonwealth.org/search/commonwealth:hx11z549x/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/hx11z549x/canvas/hx11z550p

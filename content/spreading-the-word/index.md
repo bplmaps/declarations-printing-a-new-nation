@@ -4,7 +4,7 @@ layout: table-of-contents
 order: 800
 ---
 
-This set of maps depicts the geography of the three locations where the copies of the Declaration in the cases behind you were printed: Hartford, Connecticut; Baltimore, Maryland; and Salem, Massachusetts. In 1776, these cities were only connected by relatively weak political ties, rudimentary roads, and coastal waterways. No comprehensive maps, like the road atlases of the twentieth century or today’s digital maps, were available to cover the entire area of the new nation in a uniform manner.
+This set of maps depicts the geography of three of the locations where the copies of the Declaration in this exhibition were printed: Hartford, Connecticut; Baltimore, Maryland; and Salem, Massachusetts. In 1776, these cities were only connected by relatively weak political ties, rudimentary roads, and coastal waterways. No comprehensive maps, like the road atlases of the twentieth century or today’s digital maps, were available to cover the entire area of the new nation in a uniform manner.
 
 <div class="guidepost">
 

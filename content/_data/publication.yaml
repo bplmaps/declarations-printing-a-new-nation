@@ -15,11 +15,13 @@ url: 'https://www.leventhalmap.org/digital-exhibitions/declarations'
 # Title & Description
 title: > 
   Declarations: Printing a New Nation
-short_title:
+reading_line:
+short_title: >
+  Declarations: Printing a New Nation
 
 description:
-  one_line:
-  full: 
+  one_line: This 2026 exhibition at the Boston Public Library and Leventhal Center explores how the news of independence spread in the summer of 1776
+  full: On July 4, 1776, the Continental Congress ratified the Declaration of Independence in Philadelphia, Pennsylvania. The next day, the first printed copies were sent off and began to circulate through the thirteen colonies, which were now, on paper, independent states.
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -51,7 +53,7 @@ contributor:
     last_name: Nelson
     title: President & Head Curator
     affiliation: Leventhal Map & Education Center
-  - id: jmoschell
+  - id: jmoschella
     type: primary
     first_name: Jay
     last_name: Moschella
@@ -80,10 +82,6 @@ resource_link:
     name: Leventhal Center Home
     link_relation: about
     url: https://www.leventhalmap.org
-  - type: footer-link
-    name: American Revolutionary Geographies Online
-    link_relation: about
-    url: https://www.argomaps.org
   - type: footer-link
     name: Boston Public Library
     link_relation: about

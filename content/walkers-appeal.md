@@ -6,7 +6,7 @@ menu: true
 toc: true
 presentation: side-by-side
 object:
-    - id: archive:walkersappeal
+    - id: commonwealth:wh24gq038
 ---
 
 In 1829, decades before the start of the Civil War, David Walker self-published a fiery pamphlet that repurposed the Declaration of Independence for the anti-slavery cause.

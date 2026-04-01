@@ -132,15 +132,15 @@ object_list:
     link: https://ark.digitalcommonwealth.org/ark:/50959/6d574z98c
     figure:
       - id: figure--commonwealth:6d574z98c
-  - id: archive:walkersappeal
+  - id: commonwealth:wh24gq038
     title: Walker's Appeal ... to the Colored Citizens of the World
     creator: David Walker
     year: 1829
     dimensions: 20 cm
     location: Boston Public Library
-    link: https://archive.org/details/walkersappealinf1829walk
+    link: https://www.digitalcommonwealth.org/search/commonwealth:wh24gq038
     figure:
-      - id: figure--archive:walkersappeal
+      - id: figure--commonwealth:wh24gq038
   - id: commonwealth:hx11z549x
     title: A Map of the British Colonies in North America
     creator: John Mitchell and others

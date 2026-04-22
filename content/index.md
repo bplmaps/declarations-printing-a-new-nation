@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-# image: TOI-background.jpg
+image: dec.png
 ---
 
 <div style='font-size:125%;padding-bottom:2em;'>

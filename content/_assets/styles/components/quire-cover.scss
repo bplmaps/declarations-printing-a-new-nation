@@ -26,9 +26,15 @@
   }
 
   &__overlay {
+    img {
+      width: 100%;
+      height: auto; // SVG scales perfectly
+      display: block;
+      padding: 5em;
+    }
     position: absolute;
-    top: 0;
-    left: 0;
+    // top: 0;
+    // left: 0;
     width: 100%;
 
     @media screen {

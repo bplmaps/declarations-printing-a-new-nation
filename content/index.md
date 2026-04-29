@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: dec.png
+image: lighttitle.svg
 ---
 
 <div style='font-size:125%;padding-bottom:2em;'>

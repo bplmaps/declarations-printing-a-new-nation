@@ -7,14 +7,15 @@ layout: base.11ty.js
 
 {% assign coverImage = image %}
 {% assign imagePath = config.figures.imageDir | concat: coverImage | join: '/' %}
+{% assign bgImage =  config.figures.imageDir | concat: "bg.png" | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
   <div
     class="quire-cover__overlay"
-    style="background-image: url('{{ imagePath }}');"
+    style="background-image: url('{{ bgImage }}');"
   >
     <!-- This ensures background image asset gets copied into epub package -->
-    <img class="visually-hidden" src="{{ imagePath }}" />
+    <img src="{{ imagePath }}" />
   </div>
   <div class="quire-cover__hero-body hero-body">
     <div class="container">
